@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning ASP.Net, .Net and MVC.
-- 💬 Ask me about help for C#, Python, SQL
+- 💬 Ask me about help for C#, ASP.Net Python, SQL
 - 📫 How to reach me: Mail on : berreyesilyurt23@gmail.com
 
 ## Languages and Tools :
