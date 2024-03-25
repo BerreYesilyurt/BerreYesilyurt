@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on mobile development with React Native.
-- 🌱 I’m currently learning React Native.
-- 💬 Ask me about help for C#, ASP.Net Python, SQL, Javascript and React Native.
+- 🔭 I’m currently working on mobile development with React Native and Kotlin.
+- 🌱 I’m currently learning React Native and Kotlin.
+- 💬 Ask me about help for C#, ASP.Net Python, SQL, Javascript, Kotlin and React Native.
 - 📫 How to reach me: Mail on : berreyesilyurt23@gmail.com
 
 ## Languages and Tools :
